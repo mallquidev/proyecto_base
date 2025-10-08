@@ -1,10 +1,10 @@
- # 🧱 backend_base - Arquitectura del Proyecto
+ #backend_base - Arquitectura del Proyecto
 
 Este repositorio es una base para construir aplicaciones backend con Spring Boot. Está organizado en tres paquetes principales que definen la arquitectura del sistema: `commons>
 
 ---
 
-## 🧰 COMMONS
+##COMMONS
 
 En `commons` se agrupan componentes reutilizables que pueden ser usados por cualquier módulo del sistema.
 
@@ -38,7 +38,7 @@ Para separar la configuración técnica de la lógica de negocio, facilitando el
 
 ---
 
-## 🧩 DOMAIN
+##DOMAIN
 
 En `domain` se define la lógica de negocio de cada módulo funcional del sistema.
 Cada subcarpeta representa un módulo independiente (por ejemplo: `core`, `auth`, `user`, etc.).

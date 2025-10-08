@@ -22,7 +22,7 @@ Para evitar duplicación de código y centralizar lógica común que no pertenec
 
 ---
 
-## ⚙️ CONFIG
+##CONFIG
 
 En `config` se define la configuración técnica global del sistema.
 
